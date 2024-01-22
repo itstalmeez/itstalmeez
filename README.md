@@ -16,9 +16,9 @@ Hello there! 👋 I'm Talmeez Fuaad, a Machine Learning and passionate about Dat
 
 
 
-## 📊 Achievement
+## 📊 GitHub Stats
 
-[![ I am Top 5% in Python and have took LinkedIn Test Assesment. (https://github.com/itstalmeez)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?itstalmeez&show_icons=true&hide=issues&count_private=true)](https://github.com/itstalmeez)
 
 ## 🤝 Connect with Me
 
