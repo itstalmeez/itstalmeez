@@ -1,16 +1,35 @@
-### Hi there 👋
+# About Me
+
+Hello there! 👋 I'm Talmeez Fuaad, a Machine Learning and passionate about Data Scientist. Here's a bit about me:
+
+## 👨‍💻 About Me
+
+- 💼 I work as an ML Engineer at OneCrew Technologies.
+- 🌐 I am interested in Deep Learning.
+- 📚 I’m currently learning Senior Data Scientist Course.
+- 📫 How to reach me: fuaadtalmeez@gmail.com
+
+## 🚀 Skills
+
+- Programming Languages: Python, C, C++
+- Technologies & Tools: LLM, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, and pretrained models
+
+
+
+## 📊 GitHub Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?itstalmeez&show_icons=true&hide=issues&count_private=true)](https://github.com/itstalmeez)
+
+## 🤝 Connect with Me
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/itstalmeez)
+- Twitter: [@YourTwitterHandle](https://twitter.com/itstalmeez)
+- Personal Website/Blog: itstalmeez.me
+
+Feel free to reach out! Let's connect and share ideas.
 
 <!--
-**itstalmeez/itstalmeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Optional: Add badges for your profiles on other platforms
+[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/your-twitter-handle)
+[![LinkedIn Connect](https://img.shields.io/badge/connect-with%20me-blue.svg?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile/)
 -->
