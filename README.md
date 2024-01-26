@@ -17,7 +17,8 @@ Welcome to my GitHub profile! I'm passionate about leveraging data to extract me
 
 
 ## 📈 GitHub Stats
-![Talmeez Stats](https://awesome-github-stats.azurewebsites.net/user-stats/brunobritodev?theme=highcontrast)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/itstalmeez?cardType=github&theme=highcontrast&preferLogin=false)](https://git.io/awesome-stats-card)
+
 
 ## 📫 Let's Connect!
 
