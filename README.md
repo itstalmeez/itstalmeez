@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data to extract me
 <p>
   <a href="https://www.linkedin.com/in/itstalmeez" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
+  </a> &nbsp; <br></br>
   <a href="https://github.com/itstalmeez" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
   </a>
