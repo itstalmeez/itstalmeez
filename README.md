@@ -14,10 +14,12 @@ Welcome to my GitHub profile! I'm passionate about leveraging data to extract me
 - **Version Control:** Git
 - **Other Tools:** Excel, Tableau
 
-
-
 ## 📈 GitHub Stats
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/itstalmeez?cardType=github&theme=highcontrast&preferLogin=false)](https://git.io/awesome-stats-card)
+![itstalmeez's Streak](https://github-readme-streak-stats.herokuapp.com/?user=itstalmeez&theme=tokyonight&hide_border=true)
+
+
+
+# [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/itstalmeez?cardType=github&theme=highcontrast&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
 ## 📫 Let's Connect!
