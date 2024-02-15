@@ -19,8 +19,12 @@ Welcome to my GitHub profile! I'm passionate about leveraging data to extract me
 
 
 ## 📫 Let's Connect!
-
-- LinkedIn: [LinkedIn](linkedin.com/in/itstalmeez)
-- Twitter: [Twitter](github.com/itstalmeez)
-
+<p>
+  <a href="https://www.linkedin.com/in/itstalmeez" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/itstalmeez" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+  </a>
+</p>
 Feel free to explore my repositories and reach out 
