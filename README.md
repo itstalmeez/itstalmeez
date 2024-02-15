@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data to extract me
 
 ## 📫 Let's Connect!
 
-- LinkedIn: [LinkedIn](linkedin.com/in/itstalmeez)
-- Twitter: [rTwitter](github.com/itstalmeez)
+- LinkedIn: [LinkedI](itstalmeez)
+- Twitter: [Twitter](itstalmeez)
 
 Feel free to explore my repositories and reach out 
