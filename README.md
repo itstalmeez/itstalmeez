@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data to extract me
 
 ## 🔧 Technologies & Tools
 
-- **Programming Languages:** Python, SQL, C, C++
+- **Programming Languages:** Python, SQL, C, C++, Visual Basic .NET
 - **Data Analysis:** Pandas, NumPy, Jupyter
 - **Machine Learning:** Scikit-learn, TensorFlow, Keras
 - **Visualization:** Matplotlib, Seaborn, Plotly
