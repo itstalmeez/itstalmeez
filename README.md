@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data to extract me
 - **Visualization:** Matplotlib, Seaborn, Plotly
 - **Database:** SQL
 - **Version Control:** Git
-- **Other Tools:** Excel, Tableau
+- **Other Tools:** MS Excel, MS Word, Tableau, Google Docs, Spreadsheet
 
 ## 📈 GitHub Stats
 ![itstalmeez's Streak](https://github-readme-streak-stats.herokuapp.com/?user=itstalmeez&theme=tokyonight&hide_border=true)
