@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data to extract me
 - **Visualization:** Matplotlib, Seaborn, Plotly
 - **Database:** SQL
 - **Version Control:** Git
-- **Other Tools:** MS Excel, MS Word, Tableau, Google Docs, Spreadsheet
+- **Other Tools:** MS Excel, MS Word, Power BI, Tableau, Google Docs, Spreadsheet
 
 ## 📈 GitHub Stats
 ![itstalmeez's Streak](https://github-readme-streak-stats.herokuapp.com/?user=itstalmeez&theme=tokyonight&hide_border=true)
@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data to extract me
 ## 📫 Let's Connect!
 <p>
   <a href="https://www.linkedin.com/in/itstalmeez" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="linkedin"> LinkedIn
   </a> &nbsp; <br></br>
   <a href="https://github.com/itstalmeez" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
