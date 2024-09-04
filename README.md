@@ -21,10 +21,10 @@ Welcome to my GitHub profile! I'm passionate about leveraging data to extract me
 ## 📫 Let's Connect!
 <p>
   <a href="https://www.linkedin.com/in/itstalmeez" rel="nofollow noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="linkedin"> LinkedIn
+   LinkedIn
   </a> &nbsp; <br></br>
   <a href="https://github.com/itstalmeez" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+   Github
   </a>
 </p>
 Feel free to explore my repositories and reach out 
